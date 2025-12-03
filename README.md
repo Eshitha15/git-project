@@ -1,2 +1,1 @@
-# git-project
-This line is added from Feature A.
+HELLO FROM FEATURE A
