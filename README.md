@@ -1,1 +1,2 @@
-HELLO FROM FEATURE B
+HELLO FROM FEATURE A AND FEATURE B — conflict resolved.
+
